@@ -8,6 +8,6 @@ n= matriz[1][2]
 m= matriz[2][2]
 z= matriz[1][2]
 
-suma_diagonal= (n+m+z)
+suma_diagonal= n+m+z
 
 print(suma_diagonal)
