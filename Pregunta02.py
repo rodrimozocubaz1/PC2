@@ -11,4 +11,7 @@ arreglo.append(c)
 arreglo.append(d)
 arreglo.append(e)
 
+def menor_en_arreglo(x):
+    return x
+
 
